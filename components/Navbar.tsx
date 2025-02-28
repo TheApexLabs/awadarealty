@@ -8,7 +8,7 @@ const Navbar = () => {
     <nav className="mx-container py-4 flex items-center justify-between">
       {/* Logo section */}
       <div>
-        <h1 className="font-bold text-2xl">AWADA GROUP</h1>
+        <h1 className="font-bold text-2xl">AWADA aGROUP</h1>
       </div>
 
       {/* Navigation Links */}
